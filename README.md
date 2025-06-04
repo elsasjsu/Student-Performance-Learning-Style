@@ -13,3 +13,7 @@ This dataset provides insights into how different study habits, learning styles,
 - Identified key factors impacting student scores
 - Automated logic using SQL triggers and stored procedures
 
+📁 Dataset
+The dataset is sourced from Kaggle dataset.
+
+
